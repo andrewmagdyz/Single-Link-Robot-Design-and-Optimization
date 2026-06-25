@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1778843529 source:d:\college\robot_design\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<array>
+	<string>
+	<cmath>
+
+1778788929 source:d:\college\robot_design\stress.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<array>
+	"materials.h"
+
+1777328806 d:\college\robot_design\stress.h
+
+1778789452 source:d:\college\robot_design\motor.cpp
+	<iostream>
+	<vector>
+
+1777355575 d:\college\robot_design\motor.h
+
+1778787745 d:\college\robot_design\materials.h
+	<string>
+	<vector>
+	<cmath>
+
+1778864232 source:d:\college\robot_design_3\robot_design\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<array>
+	<string>
+	<cmath>
+
